@@ -2,22 +2,17 @@
 
 # Technical Interview
 
-This repository contains a series of JavaScript coding exercises designed to assess your programming skills. Please follow the instructions below to complete the exercises and submit your solutions.
+This repository contains JavaScript coding exercises designed to assess your programming skills. Please follow the instructions I've included below to complete the exercises and submit your solutions.
 
 ### Prepare your workstation
 
 [Ensure your workstation is ready](https://gist.github.com/roibuzaglo202/9249a9dcbe15043d35699da36095fa06)
 
-### Getting Started
+### The exercise
 
 1. Clone this repository to your local machine.
-2. Navigate to tests folder and complete the tasks as described in the `README.md` file.
-
-### Submission
-
-After completing all exercises:
-
-1. Send the `calculateDiscount.test.js` file to `roi.buzaglo@evinced.com`
+2. Follow up the instructions described [here](tests/README.MD)
+3. At the end of the session, send only the `calculateDiscount.test.js` file to this email `roi.buzaglo@evinced.com` in a zip file with the password `Evinced!` (To avoid spam security)
 
 ### Important Notes
 
