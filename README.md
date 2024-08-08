@@ -11,21 +11,13 @@ This repository contains a series of JavaScript coding exercises designed to ass
 ### Getting Started
 
 1. Clone this repository to your local machine.
-2. Create a new branch using your full name:
-   ```
-   git checkout -b firstname-lastname
-   ```
-3. Navigate to tests folder and complete the tasks as described in the `README.md` file.
+2. Navigate to tests folder and complete the tasks as described in the `README.md` file.
 
 ### Submission
 
 After completing all exercises:
 
-1. Push your branch to the remote repository:
-   ```
-   git push origin firstname-lastname
-   ```
-2. Create a pull request from your branch to the main branch.
+1. Send the `calculateDiscount.test.js` file to `roi.buzaglo@evinced.com`
 
 ### Important Notes
 
