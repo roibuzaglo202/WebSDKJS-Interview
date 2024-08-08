@@ -1,5 +1,11 @@
 describe('Web SDK JS Interview', () => {
-    test('adds 1 + 2 to equal 3', () => {
-      expect(sum(1, 2)).toBe(3);
+    test('Exercise 1', () => {
+      
+    });
+    test('Exercise 2', () => {
+      
+    });
+    test('Exercise 3', () => {
+      
     });
   });

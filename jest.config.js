@@ -11,7 +11,7 @@ const jestConfig = {
     "testPathIgnorePatterns": [
       "/node_modules/"
     ],
-    "collectCoverage": true,
+    "collectCoverage": false,
     "testMatch": [
         "**/*.test.js"
      ]

@@ -6,7 +6,7 @@ This repository contains a series of JavaScript coding exercises designed to ass
 
 ### Prepare your workstation
 
-[Ensure your workstation is ready](https://gist.github.com/aryeh-evinced/3109293b7d85c4d00eb80dbb863d29e8)
+[Ensure your workstation is ready](https://gist.github.com/roibuzaglo202/9249a9dcbe15043d35699da36095fa06)
 
 ### Getting Started
 
@@ -15,7 +15,7 @@ This repository contains a series of JavaScript coding exercises designed to ass
    ```
    git checkout -b firstname-lastname
    ```
-3. Navigate to each exercise folder and complete the tasks as described in the individual `README.md` files.
+3. Navigate to tests folder and complete the tasks as described in the `README.md` file.
 
 ### Submission
 
