@@ -1,4 +1,4 @@
-# Evinced - Web SDK JS Interview
+# Evinced - Web SDK Team - JS Interview
 
 # Technical Interview
 
