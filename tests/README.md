@@ -1,6 +1,6 @@
 # Web SDK JS Interview's Exercises
 
-### Exercise 1 - Developement
+### Exercise 1 - developement
 Implement "calculateDiscount" function which has price, discountPercent and currencyCode as parameters (the currencyCode is optional).
 The Price is "USD" and the method should return the size of the discount in the provided currency.
 
