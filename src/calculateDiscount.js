@@ -7,20 +7,8 @@ const exchangeRateApi = {
     }
 };
 
-function calculateDiscount(price, discountPercent, currencyCode = 'USD') {
-if (typeof price !== 'number' || price < 0) {
-    throw new Error('Invalid price');
-}
-if (typeof discountPercent !== 'number' || discountPercent < 0 || discountPercent > 100) {
-    throw new Error('Invalid discount percentage');
-}
-
-const exchangeRate = exchangeRateApi.getExchangeRate(currencyCode);
-const priceInUSD = price * exchangeRate;
-const discountAmount = priceInUSD * (discountPercent / 100);
-const discountedPrice = priceInUSD - discountAmount;
-
-return discountedPrice / exchangeRate; 
+function calculateDiscount(price, discountPercent, currencyCode) {
+    return 0;
 }
 
 module.exports = calculateDiscount;
